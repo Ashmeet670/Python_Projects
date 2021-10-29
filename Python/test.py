@@ -1,0 +1,1 @@
+print("ashmeet " * 6)
